@@ -10,4 +10,7 @@ Esse script foi desenvolvido para envio massivo de todo o roteiro do filme Shrek
 ### Tutorial:
     
 1. Copie o script, acessando o arquivo *shrek.js*;
-2. Agora abra o console do seu navegador, basta clicar no *F12* e selecionar *Console*;
+2. Abra o Whatsapp Web, e selecione uma conversa de sua preferência;
+3. Agora abra o console do seu navegador, basta clicar no *F12* e selecionar *Console*;
+4. Cole todo o código copiado, e clique na tecla *Enter*;
+5. Pronto :)
